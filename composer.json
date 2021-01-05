@@ -1,0 +1,30 @@
+{
+  "name": "WagnerMontanini/deolhonoimposto",
+  "description": "Biblioteca API para integração com o webservice do De Olho No Imposto",
+  "keywords": [
+    "De Olho No Imposto",
+    "Imposto",
+    "deolhonoimposto",
+    "Olho no Imposto",
+    "WagnerMontanini"
+  ],
+  "homepage": "https://www.devlution.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Wagner Montanini",
+      "email": "wagnermontanini@hotmail.com.br",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.1",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "WagnerMontanini\\DeOlhoNoImposto\\": "src"
+    }
+  }
+}
