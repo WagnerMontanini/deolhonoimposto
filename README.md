@@ -1,13 +1,13 @@
 # DeOlhoNoImposto Library Test
 
 [![Maintainer](http://img.shields.io/badge/maintainer-@wagnermontanini-blue.svg?style=flat-square)](https://twitter.com/wagnermontanini)
-[![Source Code](http://img.shields.io/badge/source-WagnerMontanini/deolhonoimposto-blue.svg?style=flat-square)](https://github.com/WagnerMontanini/deolhonoimposto)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/WagnerMontanini/deolhonoimposto.svg?style=flat-square)](https://packagist.org/packages/WagnerMontanini/deolhonoimposto)
-[![Latest Version](https://img.shields.io/github/release/WagnerMontanini/deolhonoimposto.svg?style=flat-square)](https://github.com/WagnerMontanini/deolhonoimposto/releases)
+[![Source Code](http://img.shields.io/badge/source-wagnermontanini/deolhonoimposto-blue.svg?style=flat-square)](https://github.com/wagnermontanini/deolhonoimposto)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/wagnermontanini/deolhonoimposto.svg?style=flat-square)](https://packagist.org/packages/wagnermontanini/deolhonoimposto)
+[![Latest Version](https://img.shields.io/github/release/wagnermontanini/deolhonoimposto.svg?style=flat-square)](https://github.com/wagnermontanini/deolhonoimposto/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build](https://img.shields.io/scrutinizer/build/g/WagnerMontanini/deolhonoimposto.svg?style=flat-square)](https://scrutinizer-ci.com/g/WagnerMontanini/deolhonoimposto)
-[![Quality Score](https://img.shields.io/scrutinizer/g/WagnerMontanini/deolhonoimposto.svg?style=flat-square)](https://scrutinizer-ci.com/g/WagnerMontanini/deolhonoimposto)
-[![Total Downloads](https://img.shields.io/packagist/dt/WagnerMontanini/deolhonoimposto.svg?style=flat-square)](https://packagist.org/packages/cWagnerMontanini/deolhonoimposto)
+[![Build](https://img.shields.io/scrutinizer/build/g/wagnermontanini/deolhonoimposto.svg?style=flat-square)](https://scrutinizer-ci.com/g/wagnermontanini/deolhonoimposto)
+[![Quality Score](https://img.shields.io/scrutinizer/g/wagnermontanini/deolhonoimposto.svg?style=flat-square)](https://scrutinizer-ci.com/g/wagnermontanini/deolhonoimposto)
+[![Total Downloads](https://img.shields.io/packagist/dt/wagnermontanini/deolhonoimposto.svg?style=flat-square)](https://packagist.org/packages/cwagnermontanini/deolhonoimposto)
 
 ###### DeOlhoNoImposto Library is a small set of classes developed for integration with the DeOlhoNoImposto platform webservice.
 
@@ -27,13 +27,13 @@ Você pode saber mais **[clicando aqui](https://deolhonoimposto.ibpt.org.br)**.
 Uploader is available via Composer:
 
 ```bash
-"WagnerMontanini/deolhonoimposto": "^1.0"
+"wagnermontanini/deolhonoimposto": "^1.0"
 ```
 
 or run
 
 ```bash
-composer require WagnerMontanini/deolhonoimposto
+composer require wagnermontanini/deolhonoimposto
 ```
 
 ## Documentation
@@ -125,4 +125,4 @@ Thank you
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/WagnerMontanini/deolhonoimposto/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/wagnermontanini/deolhonoimposto/blob/master/LICENSE) for more information.
