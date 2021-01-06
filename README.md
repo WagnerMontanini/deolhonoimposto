@@ -76,7 +76,7 @@ if ($create->error()) {
     var_dump($create->response());
 }
 ```
-#### Invoices endpoint:
+#### SERVIÇOS endpoint:
 
 ```php
 <?php
